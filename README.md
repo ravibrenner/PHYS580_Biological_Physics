@@ -1,8 +1,7 @@
 # PHYS580-Project
-Code from my project. Python code written in Spyder (via Anaconda navigator)
-I would recommend copy-pasting a section of code into your preferred python IDE to run it.
-#%% seperates cells in spyder, but might not work in other environments, so look out for those in the code to
-see the beginning and end of sections.
+Code from my final project. The code was written to accompany the paper
+I would recommend running each simulation separately (they each have a number at the end of the name indicating the order in which they were intended to be run).
+If you prefer to view the code altogether, the files titled "PHYS580_Project.py" is the one for you
 
 Feel free to vary some of the initial values for dim, i, and r. Be careful, as some values won't work if they
 are out of range.

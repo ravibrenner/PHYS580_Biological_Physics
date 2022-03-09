@@ -4,7 +4,7 @@ I would recommend running each simulation separately (they each have a number at
 If you prefer to view the code altogether, the files titled "PHYS580_Project.py" is the one for you
 
 Feel free to vary some of the initial values for dim, i, and r. Be careful, as some values won't work if they
-are out of range.
+are out of range. The number toward the end of the filename indicates the order in which they appear in the paper, but each one can be run separately.
 
 # The Moran Process on a Lattice with Spatial Dependence
 The Moran Process is a model of finite population biology that can be used to
